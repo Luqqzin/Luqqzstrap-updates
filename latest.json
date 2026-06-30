@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.1/Luqqzstrap_Installer.exe",
-  "changelog": "Hotfix: fixed the packaged installer missing pywebview/webview runtime files, which caused 'No module named webview' on clean PCs."
+  "version": "2.0.2",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.2/Luqqzstrap_Installer.exe",
+  "changelog": "Hotfix: update checks now tolerate UTF-8 BOM manifests and keep trying GitHub Releases if the raw latest.json check fails. The release also keeps pywebview bundled for clean PCs."
 }
