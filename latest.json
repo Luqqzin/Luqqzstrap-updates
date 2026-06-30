@@ -1,0 +1,5 @@
+{
+  "version": "1.0.9",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v1.0.9/Luqqzstrap_Installer.exe",
+  "changelog": "Fixed the updater more deeply: it now waits for Luqqzstrap.exe to close before running the installer, force-closes it if needed, uses /FORCECLOSEAPPLICATIONS, and checks both latest.json and GitHub Releases API to avoid raw manifest cache delays."
+}
