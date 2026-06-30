@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.2/Luqqzstrap_Installer.exe",
-  "changelog": "Hotfix: update checks now tolerate UTF-8 BOM manifests and keep trying GitHub Releases if the raw latest.json check fails. The release also keeps pywebview bundled for clean PCs."
+  "version": "2.0.3",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.3/Luqqzstrap_Installer.exe",
+  "changelog": "Hotfix: the updater now launches through a hidden WScript wrapper, waits for the exact Luqqzstrap process instead of scanning every app instance, and reduces the forced-close wait so updates do not sit on a black command window."
 }
