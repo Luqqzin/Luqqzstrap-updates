@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v1.0.10/Luqqzstrap_Installer.exe",
-  "changelog": "Moved the public update channel to Luqqzin/Luqqzstrap-updates. This build keeps source code private while future in-app updates download from the Luqqzin updates repo."
+  "version": "2.0.0",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.0/Luqqzstrap_Installer.exe",
+  "changelog": "Major version bump for Luqqzstrap 2.0.0, marking the move from the old command-line strap era to the full desktop app release channel."
 }
