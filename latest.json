@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.6",
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.6/Luqqzstrap_Installer.exe",
-    "changelog":  "Fixed the packaged Luqqzstrap icon/logo in the Qt window, taskbar, and portable build while keeping the language selector update."
+    "version":  "2.0.7",
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.7/Luqqzstrap_Installer.exe",
+    "changelog":  "Updated the About / Developed by avatar image."
 }
