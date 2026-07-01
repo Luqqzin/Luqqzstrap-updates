@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4",
-  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.4/Luqqzstrap_Installer.exe",
-  "changelog": "Hotfix: removed the WScript-based update launcher from v2.0.3 and switched back to a hidden cmd launcher with a short PID wait, which should be less likely to trigger Smart App Control."
+    "version":  "2.0.5",
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.5/Luqqzstrap_Installer.exe",
+    "changelog":  "Added a language selector in Settings \u003e Appearance with English, Portuguese, and Spanish translations across the main UI."
 }
