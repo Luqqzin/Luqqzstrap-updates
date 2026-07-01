@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.5",
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.5/Luqqzstrap_Installer.exe",
-    "changelog":  "Added a language selector in Settings \u003e Appearance with English, Portuguese, and Spanish translations across the main UI."
+    "version":  "2.0.6",
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.6/Luqqzstrap_Installer.exe",
+    "changelog":  "Fixed the packaged Luqqzstrap icon/logo in the Qt window, taskbar, and portable build while keeping the language selector update."
 }
