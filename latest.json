@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.7",
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.7/Luqqzstrap_Installer.exe",
-    "changelog":  "Updated the About / Developed by avatar image."
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.9/Luqqzstrap_Installer.exe",
+    "changelog":  "Fixed a window resize crash on small screens such as 1366x768. Added safe resize validation and safe appearance customization options.",
+    "version":  "2.0.9"
 }
