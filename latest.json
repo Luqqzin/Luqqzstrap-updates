@@ -1,5 +1,5 @@
 {
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.0.9/Luqqzstrap_Installer.exe",
-    "changelog":  "Fixed a window resize crash on small screens such as 1366x768. Added safe resize validation and safe appearance customization options.",
-    "version":  "2.0.9"
+  "version": "2.1.0",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.0/Luqqzstrap_Installer.exe",
+  "changelog": "Luqqzstrap v2.1.0 adds Discord Rich Presence with Roblox game detection and game thumbnails, improves Rich Presence stability/retry handling, adds safer frontend startup logging, fixes black-screen startup diagnostics/fallbacks, and improves Qt rendering compatibility on PCs with GPU/WebView issues."
 }
