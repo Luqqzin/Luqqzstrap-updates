@@ -1,6 +1,5 @@
-﻿{
-    "version":  "2.1.1",
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.1/Luqqzstrap_Installer.exe",
-    "changelog":  "Luqqzstrap v2.1.1 fixes a Discord Rich Presence monitor encoding crash on Windows when Roblox game names or log messages contain emoji, symbols, or other Unicode characters."
+{
+    "version":  "2.1.2",
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.2/Luqqzstrap_Installer.exe",
+    "changelog":  "Luqqzstrap v2.1.2 adds the FFM V4 flag workflow, updated injection handling, and a lighter UI pass to avoid WebView lag."
 }
-
