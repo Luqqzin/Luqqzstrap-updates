@@ -1,5 +1,5 @@
 {
-    "version":  "2.1.2",
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.2/Luqqzstrap_Installer.exe",
-    "changelog":  "Luqqzstrap v2.1.2 adds the FFM V4 flag workflow, updated injection handling, and a lighter UI pass to avoid WebView lag."
+    "version":  "2.1.3",
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.3/Luqqzstrap_Installer.exe",
+    "changelog":  "Luqqzstrap v2.1.3 removes the old stability guard that disabled physics, movement, humanoid, and network flags before injection."
 }
