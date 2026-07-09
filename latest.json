@@ -1,5 +1,5 @@
 {
-    "version":  "2.1.3",
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.3/Luqqzstrap_Installer.exe",
-    "changelog":  "Luqqzstrap v2.1.3 removes the old stability guard that disabled physics, movement, humanoid, and network flags before injection."
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.4/Luqqzstrap_Installer.exe",
+    "changelog":  "Luqqzstrap v2.1.4 aligns live flag offset loading with FFM V4, adds pointer-history support, updates the bundled FFlags dump, and improves JSON/live-memory status reporting.",
+    "version":  "2.1.4"
 }
