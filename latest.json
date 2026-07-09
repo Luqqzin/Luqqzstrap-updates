@@ -1,5 +1,5 @@
 {
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.4/Luqqzstrap_Installer.exe",
-    "changelog":  "Luqqzstrap v2.1.4 aligns live flag offset loading with FFM V4, adds pointer-history support, updates the bundled FFlags dump, and improves JSON/live-memory status reporting.",
-    "version":  "2.1.4"
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.5/Luqqzstrap_Installer.exe",
+    "changelog":  "Luqqzstrap v2.1.5 fixes all-disabled preset application, so imported/saved presets do not apply as 0/0 active flags.",
+    "version":  "2.1.5"
 }
