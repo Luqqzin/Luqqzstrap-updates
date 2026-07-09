@@ -1,5 +1,5 @@
 {
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.5/Luqqzstrap_Installer.exe",
-    "changelog":  "Luqqzstrap v2.1.5 fixes all-disabled preset application, so imported/saved presets do not apply as 0/0 active flags.",
-    "version":  "2.1.5"
+    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.6/Luqqzstrap_Installer.exe",
+    "changelog":  "Luqqzstrap v2.1.6 improves official flag normalization, so unprefixed known flags write the correct Roblox JSON key while still resolving live-memory offsets.",
+    "version":  "2.1.6"
 }
