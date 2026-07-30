@@ -1,0 +1,44 @@
+[
+  {
+    "id": "comm_preset_1",
+    "title": "Pack FPS Boost & Estabilidade Extreme",
+    "category": "Performance",
+    "description": "Combo completo de flags testadas para desativar efeitos pesados, liberar o FPS e otimizar a VRAM.",
+    "author": "Luqqz",
+    "created_at": 1753890000,
+    "upvotes": 42,
+    "flags": [
+      { "name": "DFIntTaskSchedulerTargetFps", "value": "9999", "type": "int" },
+      { "name": "FFlagDebugGraphicsDisableDirect3D11", "value": "False", "type": "bool" },
+      { "name": "FIntDebugTextureManagerSkipMips", "value": "1", "type": "int" },
+      { "name": "FFlagDisablePostFx", "value": "True", "type": "bool" }
+    ]
+  },
+  {
+    "id": "comm_preset_2",
+    "title": "Otimização de Gráficos & Sombra",
+    "category": "Graphics",
+    "description": "Melhora a nitidez visual das texturas mantendo sombras em baixa resolução para ganho de desempenho.",
+    "author": "Suqqz",
+    "created_at": 1753890100,
+    "upvotes": 28,
+    "flags": [
+      { "name": "DFIntTextureQualityOverride", "value": "3", "type": "int" },
+      { "name": "FFlagDebugDisableShadowMaps", "value": "True", "type": "bool" },
+      { "name": "FIntRenderShadowMapBias", "value": "100", "type": "int" }
+    ]
+  },
+  {
+    "id": "comm_preset_3",
+    "title": "Fixes de Lag & Carregamento Rápido",
+    "category": "Fixes",
+    "description": "Conjunto de correções de rede e carregamento rápido para diminuir travamentos ao entrar nos jogos.",
+    "author": "Comunidade",
+    "created_at": 1753890200,
+    "upvotes": 15,
+    "flags": [
+      { "name": "FFlagEnableQuickLoadAssets", "value": "True", "type": "bool" },
+      { "name": "FIntNetworkPredictionMaxBuffer", "value": "120", "type": "int" }
+    ]
+  }
+]
