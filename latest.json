@@ -1,5 +1,5 @@
 {
-    "installer_url":  "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.1.6/Luqqzstrap_Installer.exe",
-    "changelog":  "Luqqzstrap v2.1.6 improves official flag normalization, so unprefixed known flags write the correct Roblox JSON key while still resolving live-memory offsets.",
-    "version":  "2.1.6"
+  "version": "2.2.2",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.2.2/Luqqzstrap_Installer.exe",
+  "changelog": "- Aba de Presets da Comunidade (Compartilhamento de packs de FastFlags)\n- Sistema de Curtidas/Upvotes & Ordenação por Mais Votados\n- Limpador de Cache do Roblox (Liberador de espaço & logs em 1 clique)\n- Botões de alternância para DF-Lock Guard e FPS Unlocker em Tempo Real"
 }
