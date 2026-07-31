@@ -1,18 +1,1979 @@
 [
   {
+    "id": "comm_preset_1785445424049",
+    "title": "auraaaxxx",
+    "category": "Performance",
+    "description": "67",
+    "author": "aura teste",
+    "created_at": 1785445424,
+    "flags": [
+      {
+        "name": "FLogNetwork",
+        "value": "7",
+        "type": "int"
+      },
+      {
+        "name": "DFIntTaskSchedulerTargetFps",
+        "value": "9999",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableInGameMenuModernization",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntCanHideGuiGroupId",
+        "value": "32380007",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableMenuModernizationABTest2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableInGameMenuControls",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FStringPartTexturePackTable2022",
+        "value": "",
+        "type": "string"
+      },
+      {
+        "name": "FFlagEnableMenuControlsABTest",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFixGraphicsQuality",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDisableNewIGMinDUA",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableMenuModernizationABTest",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableV3MenuABTest3",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagDisableDPIScale",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFLogHttpTraceLight",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntLightstepHTTPTransportHundredthsPercent2",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntHttpCurlConnectionCacheSize",
+        "value": "134217728",
+        "type": "int"
+      },
+      {
+        "name": "FStringPerformanceSendMeasurementAPISubdomain",
+        "value": "opt-out",
+        "type": "string"
+      },
+      {
+        "name": "FFlagGameBasicSettingsFramerateCap5",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRenderShadowIntensity",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FIntMeshContentProviderForceCacheSize",
+        "value": "268435456",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugGraphicsPreferD3D11",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableInGameMenuChrome",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntDebugForceMSAASamples",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FIntFullscreenTitleBarTriggerDelayMillis",
+        "value": "3600000",
+        "type": "int"
+      },
+      {
+        "name": "FIntTerrainOTAMaxTextureSize",
+        "value": "1024",
+        "type": "int"
+      },
+      {
+        "name": "FFlagTopBarUseNewBadge",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntGoogleAnalyticsLoadPlayerHundredth",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugDisableTelemetryEventIngest",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDebugDisplayFPS",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagReconnectDisabled",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRakNetNakResendDelayRttPercent",
+        "value": "50",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagDebugRenderForceTechnologyVoxel",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntPlayerNetworkUpdateRate",
+        "value": "60",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableInGameMenuChromeABTest3",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagNewLightAttenuation",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagOptimizeNetwork",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagOptimizeServerTickRate",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDontCreatePingJob",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRenderGrassHeightScaler",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FStringInGameMenuChromeForcedUserIds",
+        "value": "1353919681",
+        "type": "string"
+      },
+      {
+        "name": "DFFlagEnableFmodErrorsTelemetry",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDebugDisableTelemetryPoint",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagRenderGpuTextureCompressor",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRenderLocalLightUpdatesMin",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntUserIdPlayerNameCacheSize",
+        "value": "33554432",
+        "type": "int"
+      },
+      {
+        "name": "DFIntDebugFRMQualityLevelOverride",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FIntBootstrapperTelemetryReportingHundredthsPercentage",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntNetworkLatencyTolerance",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagPreloadAllFonts",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDebugDisableTelemetryV2Stat",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntHardwareTelemetryHundredthsPercent",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableQuickGameLaunch",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntUserIdPlayerNameLifetimeSeconds",
+        "value": "86400",
+        "type": "int"
+      },
+      {
+        "name": "FStringErrorUploadToBacktraceBaseUrl",
+        "value": "http://opt-out.roblox.com",
+        "type": "string"
+      },
+      {
+        "name": "FIntEmotesAnimationsPerPlayerCacheSize",
+        "value": "16777216",
+        "type": "int"
+      },
+      {
+        "name": "DFStringAltTelegrafHTTPTransportUrl",
+        "value": "http://opt-out.roblox.com",
+        "type": "string"
+      },
+      {
+        "name": "DFIntRakNetNakResendDelayMs",
+        "value": "10",
+        "type": "int"
+      },
+      {
+        "name": "DFIntConnectionMTUSize",
+        "value": "900",
+        "type": "int"
+      },
+      {
+        "name": "FFlagFastGPULightCulling3",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntFRMMinGrassDistance",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntCSGLevelOfDetailSwitchingDistanceL23",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagSimReportCPUInfo",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRakNetResendBufferArrayLength",
+        "value": "128",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugDisableTelemetryV2Counter",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntReportRecordingDeviceInfoRateHundredthsPercentage",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugDisableTelemetryV2Event",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDebugLightGridShowChunks",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagCoreGuiTypeSelfViewPresent",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagRakNetUseSlidingWindow4",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntLmsClientRollout2",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntNetworkPrediction",
+        "value": "120",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetMtuValue2InBytes",
+        "value": "1240",
+        "type": "int"
+      },
+      {
+        "name": "DFIntOptimizePingThreshold",
+        "value": "50",
+        "type": "int"
+      },
+      {
+        "name": "FFlagLuaAppExitModalDoNotShow",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRenderGrassDetailStrands",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FIntDefaultMeshCacheSizeMB",
+        "value": "256",
+        "type": "int"
+      },
+      {
+        "name": "DFStringRobloxAnalyticsSubDomain",
+        "value": "opt-out",
+        "type": "string"
+      },
+      {
+        "name": "FFlagEnableInGameMenuV3",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagEnableGCapsHardwareTelemetry",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntFRMMaxGrassDistance",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagCommitToGraphicsQualityFix",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagDebugAnalyticsSendUserId",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagEnableHardwareTelemetry",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRakNetMtuValue3InBytes",
+        "value": "1200",
+        "type": "int"
+      },
+      {
+        "name": "FStringCredit",
+        "value": "Potato Mode | @KiwisASkid on YT",
+        "type": "string"
+      },
+      {
+        "name": "FFlagOptimizeNetworkRouting",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntPlayerNetworkUpdateQueueSize",
+        "value": "20",
+        "type": "int"
+      },
+      {
+        "name": "FIntRenderShadowmapBias",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFStringHttpPointsReporterUrl",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "DFIntCSGLevelOfDetailSwitchingDistance",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugDisableTelemetryEphemeralStat",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntUITextureMaxRenderTextureSize",
+        "value": "1024",
+        "type": "int"
+      },
+      {
+        "name": "FFlagLuaAppSystemBar",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntPerformanceControlTextureQualityBestUtility",
+        "value": "-1",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagEnableLightstepReporting2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagOptimizeNetworkTransport",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRaknetBandwidthPingSendEveryXSeconds",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagBatchAssetApi",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDebugDisableTelemetryEphemeralCounter",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRakNetDatagramMessageIdArrayLength",
+        "value": "1024",
+        "type": "int"
+      },
+      {
+        "name": "FFlagPreloadTextureItemsOption4",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRakNetMtuValue1InBytes",
+        "value": "1280",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableSoundTelemetry",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRakNetNakResendDelayMsMax",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "FIntRenderLocalLightUpdatesMax",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFStringAltHttpPointsReporterUrl",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "DFStringCrashUploadToBacktraceBaseUrl",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "DFStringAnalyticsEventStreamUrlEndpoint",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "FFlagLuaAppExitModal2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntCSGLevelOfDetailSwitchingDistanceL12",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntServerTickRate",
+        "value": "60",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetResendRttMultiple",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagAudioDeviceTelemetry",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagGpuVsCpuBoundTelemetry",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagBatchAssetApiNoFallbackOnFail",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagQueueDataPingFromSendData",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntServerPhysicsUpdateRate",
+        "value": "60",
+        "type": "int"
+      },
+      {
+        "name": "FFlagAnimationClipMemCacheEnabled",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFStringTelegrafHTTPTransportUrl",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "DFIntReportOutputDeviceInfoRateHundredthsPercentage",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagInGameMenuV1FullScreenTitleBar",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagGpuGeometryManager7",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFStringRobloxAnalyticsURL",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "FFlagAdServiceEnabled",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntCSGLevelOfDetailSwitchingDistanceL34",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntMaxFrameBufferSize",
+        "value": "4",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugRenderingSetDeterministic",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRomarkStartWithGraphicQualityLevel",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FIntRuntimeMaxNumOfThreads",
+        "value": "3600",
+        "type": "int"
+      },
+      {
+        "name": "FIntTaskSchedulerThreadMin",
+        "value": "3",
+        "type": "int"
+      },
+      {
+        "name": "DFIntLargePacketQueueSizeCutoffMB",
+        "value": "1000",
+        "type": "int"
+      },
+      {
+        "name": "DFIntMaxProcessPacketsJobScaling",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "DFIntMaxProcessPacketsStepsAccumulated",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntMaxProcessPacketsStepsPerCyclic",
+        "value": "5000",
+        "type": "int"
+      },
+      {
+        "name": "DFIntMegaReplicatorNetworkQualityProcessorUnit",
+        "value": "10",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetLoopMs",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntWaitOnRecvFromLoopEndedMS",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntWaitOnUpdateNetworkLoopEndedMS",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetClockDriftAdjustmentPerPingMillisecond",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRaknetBandwidthInfluxHundredthsPercentageV2",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "DFIntCodecMaxIncomingPackets",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntCodecMaxOutgoingFrames",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "FIntRobloxGuiBlurIntensity",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFStringTelegrafAddress",
+        "value": "127.0.0.1",
+        "type": "string"
+      },
+      {
+        "name": "FFlagEnableTFFeedbackModeEntryCheck",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntAnimationLodFacsVisibilityDenominator",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableFeedbackModeModalTextFixes",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFStringAltTelegrafAddress",
+        "value": "127.0.0.1",
+        "type": "string"
+      },
+      {
+        "name": "FFlagEnableFeedbackOnboardingModal",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FStringWhitelistVerifiedUserId",
+        "value": "411955176",
+        "type": "string"
+      },
+      {
+        "name": "FFlagGlobalWindActivated",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFStringTelemetryV2Url",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "FFlagDisablePostFx",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagDebugPerfMode",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntBandwidthManagerFeedbackMetricsSendEveryXSecondsV2",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableFeedbackModeBottomBarTextFixes",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFStringLightstepHTTPTransportUrlPath",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "FIntMockClientLightingTechnologyIxpExperimentQualityLevel",
+        "value": "7",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableAccessibilitySettingsEffectsInExperienceChat",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagInGameMenuV1ExitModal",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRakNetApplicationFeedbackInitialSpeedBPS",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetApplicationFeedbackScaleUpFactorHundredthPercent",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFStringCrashUploadToBacktraceWindowsPlayerToken",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "FFlagEnableAccessibilitySettingsInExperienceMenu2",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagTextureQualityOverrideEnabled",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagMSRefactor5",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFeedbackEntryPointButtonSizeAdjustment2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntClientLightingEnvmapPlacementTelemetryHundredthsPercent",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntBandwidthManagerFeedbackMetricsUpdateEveryXSeconds",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugForceFutureIsBrightPhase3",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableFeedbackReportDialogAdjustments",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagCloudsReflectOnWater",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagHandleAltEnterFullscreenManually",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FStringThumbsDownFeedbackUrl",
+        "value": "https://opt-out.roblox.com",
+        "type": "string"
+      },
+      {
+        "name": "DFIntVoiceChatVolumeThousandths",
+        "value": "6000",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableAccessibilitySettingsEffectsInCoreScripts2",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntAnimationLodFacsDistanceMax",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetApplicationFeedbackMaxSpeedBPS",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagRakNetCalculateApplicationFeedback2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntHSRClusterSymmetryDistancePercent",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "FFlagChatTranslationSettingEnabled3",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "FStringGamesUrlPath",
+        "value": "/games/",
+        "type": "string"
+      },
+      {
+        "name": "DFIntFeedbackResolutionPerAxisDivider",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagFeedbackEntryPointImprovedStrictnessCheck",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableChromePinnedChat",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFStringLightstepToken",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "FFlagGlobalWindRendering",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFeedbackBarHintSizeAdjustment",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDisableFeedbackSoothsayerCheck",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFeedbackModuleEarlyFontInitialization",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntTerrainArraySliceSize",
+        "value": "8",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableFeedbackSelectionUpdate",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagLanguageFeaturesTelemetry",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableAccessibilitySettingsAPIV2",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagVoxelizerDisableTerrainSIMD",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FStringCoreScriptBacktraceErrorUploadToken",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "DFIntBandwidthManagerFeedbackInfluxHundredthsPercentage",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetApplicationFeedbackScaleUpThresholdPercent",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFStringCrashUploadToBacktraceMacPlayerToken",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "DFFlagDebugPauseVoxelizer",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFStringLightstepHTTPTransportUrlHost",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "DFIntAnimationLodFacsDistanceMin",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FIntMockClientLightingTechnologyIxpExperimentMode",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagPerformanceControlIXPMemoryBufferConstantCheck",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntDebugPerformanceControlUsedMemoryMB",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagPerformanceControlEnableMemoryProbing",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagPreloadMinimalFonts",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagMockOpenSelfViewForCameraUser",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntTimestepArbiterDebounceFrames",
+        "value": "20",
+        "type": "int"
+      },
+      {
+        "name": "DFIntVisibilityCheckRayCastLimitPerFrame",
+        "value": "10",
+        "type": "int"
+      },
+      {
+        "name": "FFlagGraphicsGLEnableHQShadersExclusion",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingSearchForReplacementWhenRemovingAnimator",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSelfViewCameraDefaultButtonInViewPort",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingClearTrackImprovementsV2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagPerformanceControlEnableInference",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagESGamePerfMonitorEnabled",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableReportAbuseMenuLayerOnV3",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableBubbleChatFromChatService",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableReportAbuseMenuRoactABTest2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDebugDisableOTAMaterialTexture",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableFavoriteButtonForUgc",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "FIntReportDeviceInfoRollout",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableReportAbuseMenuRoact2",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableAudioOutputDevice",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntPerformanceControlSoundReloadLatencyMinValue",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntPerformanceControlSoundReloadLatencyMaxValue",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntPerformanceControlIXPBestQueueSize",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagGraphicsGLEnableSuperHQShadersExclusion",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSelfieViewEnabled",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagRenderPerformanceTelemetry",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSelfViewTweaksPass",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagCoreGuiSelfViewVisibilityFixed",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagReduceFacialAnimationsWhenFacsStreaming2",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagFacialAnimationStreamingServiceV2Verbose",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagFacialAnimationStreaming2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingValidateAnimatorBeforeRemoving",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingUseEnableFlags2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingServiceUseServerThrottling",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingServiceUserSettingsMock",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingServiceUserSettingsCache",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingServiceUniverseSettingsMock",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntTimestepArbiterOmegaThou",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugCheckRenderThreading",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntAnimatorThrottleMaxFramesToSkip",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugSelfViewPerfBenchmark",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagPushFrameTimeToHarmony",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagRenderCheckThreading",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRenderLocalLightFadeInMs_enabled",
+        "value": "99999",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableBetaBadgeLearnMore",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntBufferCompressionLevel",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagGraphicsSettingsOnlyShowValidModes",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntStartupInfluxHundredthsPercentage",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagSelfViewMoreNilChecks",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableInGameMenuChromeABTest2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntPerformanceControlSoundReloadLatencyTargetUtility",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FIntInterpolationAwareTargetTimeLerpHundredth",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingCheckPauseStateAfterEmote2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagNullCheckCloudsRendering",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntBufferCompressionThreshold",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntTimeBetweenSendConnectionAttemptsMS",
+        "value": "200",
+        "type": "int"
+      },
+      {
+        "name": "FFlagEnableBubbleChatConfigurationV2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationRecordingBetaFeature",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSelfViewRemoveVPFWhenClosed",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingIfNoDynamicHeadDisableA2C",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagVoiceBetaBadge",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingClearAllConnectionsFix",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSelfViewHumanoidNilCheck",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntCameraMaxZoomDistance",
+        "value": "99999",
+        "type": "int"
+      },
+      {
+        "name": "FFlagFacialAnimation1BetaFeature",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSelfViewAvoidErrorOnWrongFaceControlsParenting",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSimEnableDCD10",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntSelfViewTooltipLifetime",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagSelfViewGetRidOfFalselyRenderedFaceDecal",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSelfViewLookUpHumanoidByType",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntKeyRingKeyBeingUsedVersionInfoInfluxHundredths",
+        "value": "-1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagSelfViewFixes",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationRecordingInStudio",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntMaxAverageFrameDelayExceedFactor",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagBetaBadgeLearnMoreLinkFormview",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagGameBasicSettingsFramerateCap",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFixSelfViewPopin",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntNumFramesAllowedToBeAboveError",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntNetworkSchemaCompressionRatio",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "FFlagRenderDebugCheckThreading2",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagFacialAnimationStreamingRcc",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FStringVoiceBetaBadgeLearnMoreLink",
+        "value": "null",
+        "type": "string"
+      },
+      {
+        "name": "FFlagControlBetaBadgeWithGuac",
+        "value": "false",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableNewInviteMenuIXP2",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagUISUseLastFrameTimeInUpdateInputSignal",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntPerformanceControlFrameTimeMaxUtility",
+        "value": "-1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntPerformanceControlFrameTimeMax",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntPerformanceControlPredictedOOMAbsLimitExtraBufferMB",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntPerformanceControlIXPQueueSizeUtilityExponentTenThousandths",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntPerformanceControlIXPQueueSizeBestUtility",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FStringTerrainMaterialTable2022",
+        "value": "",
+        "type": "string"
+      },
+      {
+        "name": "FStringTerrainMaterialTablePre2022",
+        "value": "",
+        "type": "string"
+      },
+      {
+        "name": "FFlagUserPreventOldBubbleChatOverlap",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagSelfViewUpdatedCamFraming",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntFontSizePadding",
+        "value": "3",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugSkyGray",
+        "value": "True",
+        "type": "bool"
+      }
+    ],
+    "has_upvoted": true,
+    "upvotes": 1
+  },
+  {
+    "id": "comm_preset_1785444675588",
+    "title": "Sigma Boy",
+    "category": "Performance",
+    "description": "Umas flag batata",
+    "author": "@postaria",
+    "created_at": 1785444675,
+    "flags": [
+      {
+        "name": "FLogNetwork",
+        "value": "7",
+        "type": "int"
+      },
+      {
+        "name": "FFlagHandleAltEnterFullscreenManually",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntTerrainArraySliceSize",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FIntRenderShadowIntensity",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntTaskSchedulerTargetFps",
+        "value": "5588562",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDisablePostFx",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntFontSizePadding",
+        "value": "4",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagDisableDPIScale",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntCanHideGuiGroupId",
+        "value": "32380007",
+        "type": "int"
+      },
+      {
+        "name": "FIntFullscreenTitleBarTriggerDelayMillis",
+        "value": "3600000",
+        "type": "int"
+      },
+      {
+        "name": "FFlagOptimizeNetwork",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagEnableAccessibilitySettingsAPIV2",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRaknetBandwidthInfluxHundredthsPercentageV2",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "FFlagOptimizeNetworkRouting",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntTimestepArbiterThresholdCFLThou",
+        "value": "300",
+        "type": "int"
+      },
+      {
+        "name": "FIntLmsClientRollout2",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntReportRecordingDeviceInfoRateHundredthsPercentage",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntServerTickRate",
+        "value": "60",
+        "type": "int"
+      },
+      {
+        "name": "DFIntWaitOnUpdateNetworkLoopEndedMS",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetLoopMs",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagSmoothClusterDirtyFlagFix",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagOptimizeNetworkTransport",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntMaxProcessPacketsStepsAccumulated",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagTopBarUseNewBadge",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntDefaultTimeoutTimeMs",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "FFlagTaskSchedulerLimitTargetFpsTo2402",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntTargetRefreshRate",
+        "value": "9999",
+        "type": "int"
+      },
+      {
+        "name": "FIntTaskSchedulerThreadMin",
+        "value": "3",
+        "type": "int"
+      },
+      {
+        "name": "FIntFRMMaxGrassDistance",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagHSRClusterImprovement",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRakNetResendRttMultiple",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetNakResendDelayMs",
+        "value": "10",
+        "type": "int"
+      },
+      {
+        "name": "FIntFRMMinGrassDistance",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntReportOutputDeviceInfoRateHundredthsPercentage",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetNakResendDelayMsMax",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntNetworkPrediction",
+        "value": "120",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDontCreatePingJob",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagRakNetUseSlidingWindow4",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntCodecMaxIncomingPackets",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagHSRForceClearOtherData",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagOptimizeServerTickRate",
+        "value": "true",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntMaxProcessPacketsJobScaling",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "DFIntNetworkCluster",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntMaxProcessPacketsStepsPerCyclic",
+        "value": "5000",
+        "type": "int"
+      },
+      {
+        "name": "DFIntPlayerNetworkUpdateQueueSize",
+        "value": "20",
+        "type": "int"
+      },
+      {
+        "name": "DFIntNetworkLatencyTolerance",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntWaitOnRecvFromLoopEndedMS",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "FIntRenderLocalLightFadeInMs",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagTaskSchedulerAvoidSleep",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRaknetBandwidthPingSendEveryXSeconds",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "DFIntLargePacketQueueSizeCutoffMB",
+        "value": "1000",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetNakResendDelayRttPercent",
+        "value": "50",
+        "type": "int"
+      },
+      {
+        "name": "DFFlagQueueDataPingFromSendData",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntRenderingThrottleDelayInMS",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagLimitSleeps",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagMSRefactor5",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntOptimizePingThreshold",
+        "value": "50",
+        "type": "int"
+      },
+      {
+        "name": "DFIntRakNetClockDriftAdjustmentPerPingMillisecond",
+        "value": "100",
+        "type": "int"
+      },
+      {
+        "name": "DFIntPlayerNetworkUpdateRate",
+        "value": "60",
+        "type": "int"
+      },
+      {
+        "name": "FFlagSimAdaptiveMinorOptimizations",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntSimWorldTaskQueueParallelTasks",
+        "value": "20",
+        "type": "int"
+      },
+      {
+        "name": "FIntSmoothClusterTaskQueueMaxParallelTasks",
+        "value": "20",
+        "type": "int"
+      },
+      {
+        "name": "FFlagGraphicsEnableD3D10Compute",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagDebugPerfMode",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagDebugOverrideDPIScale",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntCullFactorPixelThresholdShadowMapHighQuality",
+        "value": "2147483647",
+        "type": "int"
+      },
+      {
+        "name": "DFIntCullFactorPixelThresholdShadowMapLowQuality",
+        "value": "2147483647",
+        "type": "int"
+      },
+      {
+        "name": "FIntRenderGrassDetailStrands",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntDebugFRMQualityLevelOverride",
+        "value": "7",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugSkyGray",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagDebugCheckRenderThreading",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagRenderDebugCheckThreading2",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagLuaAppUseUIBloxColorPalettes1",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagUIBloxUseNewThemeColorPalettes",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FFlagLuaAppsEnableParentalControlsTab",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFIntAnimationLodFacsDistanceMin",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntAnimationLodFacsDistanceMax",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntAnimationLodFacsVisibilityDenominator",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "FFlagNewLightAttenuation",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "DFFlagDebugPauseVoxelizer",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntCSGVoxelizerFadeRadius",
+        "value": "0",
+        "type": "int"
+      },
+      {
+        "name": "DFIntCodecMaxOutgoingFrames",
+        "value": "10000",
+        "type": "int"
+      },
+      {
+        "name": "DFIntMegaReplicatorNetworkQualityProcessorUnit",
+        "value": "10",
+        "type": "int"
+      }
+    ],
+    "has_upvoted": false,
+    "upvotes": 1
+  },
+  {
     "id": "comm_preset_1",
     "title": "Pack FPS Boost & Estabilidade Extreme",
     "category": "Performance",
     "description": "Combo completo de flags testadas para desativar efeitos pesados, liberar o FPS e otimizar a VRAM.",
     "author": "Luqqz",
     "created_at": 1753890000,
-    "upvotes": 42,
     "flags": [
-      { "name": "DFIntTaskSchedulerTargetFps", "value": "9999", "type": "int" },
-      { "name": "FFlagDebugGraphicsDisableDirect3D11", "value": "False", "type": "bool" },
-      { "name": "FIntDebugTextureManagerSkipMips", "value": "1", "type": "int" },
-      { "name": "FFlagDisablePostFx", "value": "True", "type": "bool" }
-    ]
+      {
+        "name": "DFIntTaskSchedulerTargetFps",
+        "value": "9999",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugGraphicsDisableDirect3D11",
+        "value": "False",
+        "type": "bool"
+      },
+      {
+        "name": "FIntDebugTextureManagerSkipMips",
+        "value": "1",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDisablePostFx",
+        "value": "True",
+        "type": "bool"
+      }
+    ],
+    "has_upvoted": true,
+    "upvotes": 1
   },
   {
     "id": "comm_preset_2",
@@ -21,12 +1982,25 @@
     "description": "Melhora a nitidez visual das texturas mantendo sombras em baixa resolução para ganho de desempenho.",
     "author": "Suqqz",
     "created_at": 1753890100,
-    "upvotes": 28,
     "flags": [
-      { "name": "DFIntTextureQualityOverride", "value": "3", "type": "int" },
-      { "name": "FFlagDebugDisableShadowMaps", "value": "True", "type": "bool" },
-      { "name": "FIntRenderShadowMapBias", "value": "100", "type": "int" }
-    ]
+      {
+        "name": "DFIntTextureQualityOverride",
+        "value": "3",
+        "type": "int"
+      },
+      {
+        "name": "FFlagDebugDisableShadowMaps",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntRenderShadowMapBias",
+        "value": "100",
+        "type": "int"
+      }
+    ],
+    "has_upvoted": false,
+    "upvotes": 0
   },
   {
     "id": "comm_preset_3",
@@ -35,10 +2009,19 @@
     "description": "Conjunto de correções de rede e carregamento rápido para diminuir travamentos ao entrar nos jogos.",
     "author": "Comunidade",
     "created_at": 1753890200,
-    "upvotes": 15,
     "flags": [
-      { "name": "FFlagEnableQuickLoadAssets", "value": "True", "type": "bool" },
-      { "name": "FIntNetworkPredictionMaxBuffer", "value": "120", "type": "int" }
-    ]
+      {
+        "name": "FFlagEnableQuickLoadAssets",
+        "value": "True",
+        "type": "bool"
+      },
+      {
+        "name": "FIntNetworkPredictionMaxBuffer",
+        "value": "120",
+        "type": "int"
+      }
+    ],
+    "has_upvoted": true,
+    "upvotes": 1
   }
 ]
