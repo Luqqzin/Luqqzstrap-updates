@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
-  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.5.0/Luqqzstrap_Installer.exe",
-  "changelog": "Luqqzstrap v2.5.0 official release with GPU performance booster, Intel iGPU auto-fix, and font selector fix"
+  "version": "2.5.1",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.5.1/Luqqzstrap_Installer.exe",
+  "changelog": "Luqqzstrap v2.5.1 release with startup error dialogs and crash logging"
 }
