@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
-  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.6.0/Luqqzstrap_Installer.exe",
-  "changelog": "• Nova Integração com Discord Bot (Comandos /vincular, /desvincular, /status e /flags com download em tempo real)\n• Servidor e Bot 24/7 na nuvem sem armazenar credenciais sensíveis no aplicativo\n• Presets da Comunidade (Aba Community) restaurada e funcionando com curtidas, envio e importação\n• Leitura de logs do Roblox expandida para detecção precisa de jogos e servidores no Discord\n• Correções de estabilidade e abertura instantânea do aplicativo"
+  "version": "2.6.1-beta",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.6.1-beta/Luqqzstrap_Installer.exe",
+  "changelog": ""
 }
