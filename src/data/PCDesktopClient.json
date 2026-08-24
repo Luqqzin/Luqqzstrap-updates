@@ -21000,6 +21000,13 @@
     "FFlagFixDeviceSafePaddingAccess": "True",
     "FFlagFixMobileFullscreenFrame": "True",
     "FFlagFixTabletEDPNavBarVisibility": "True",
+    "FFlagRCCMicroProfilerPlatformInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-24T16:29:54",
+    "FFlagStudioWidgetResize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-24T16:31:20",
+    "FFlagEnableHomeGameItemOwnershipUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-24T16:32:07",
+    "FFlagEnablePurchasePayloadForSduiPurchase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-24T16:34:18",
+    "FFlagSduiSupportRatingNoPercent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-24T16:41:31",
+    "FFlagSduiGameItemsComponent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-24T16:41:57",
+    "FFlagBuildNoPublishOnRevert_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-08-24T16:47:57",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -22379,8 +22386,8 @@
     "FFlagCallAdPlayerCallbackOnFailure": "True",
     "FFlagUserTM2Experiment_IXP": "1;Portal.voldex-de-texture-variety-1787256596;voldex-de-texture-variety;497959328;flagbank",
     "FFlagExpChatPresetAutocompleteIxpEnabled": "True",
-    "FStringFlagRepoGitHashFastString": "51f0a1290d2c4759b5485bede717f6aec0bb3693",
-    "DFStringFlagRepoGitHashDynamicString": "51f0a1290d2c4759b5485bede717f6aec0bb3693",
-    "FStringFlipTimeStampFastString": "2026-08-23T20:14:02.752Z",
-    "DFStringFlipTimeStampDynamicString": "2026-08-23T20:14:02.752Z"
+    "FStringFlagRepoGitHashFastString": "84ed18104f3c3f91a9744f85441c3e4cb5d261eb",
+    "DFStringFlagRepoGitHashDynamicString": "84ed18104f3c3f91a9744f85441c3e4cb5d261eb",
+    "FStringFlipTimeStampFastString": "2026-08-24T16:47:58.281Z",
+    "DFStringFlipTimeStampDynamicString": "2026-08-24T16:47:58.281Z"
 }
