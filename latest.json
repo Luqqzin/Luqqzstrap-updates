@@ -1,5 +1,5 @@
 {
-  "version": "2.6.6-beta",
-  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.6.6-beta/Luqqzstrap_Installer.exe",
-  "changelog": ""
+  "version": "2.7.1-beta",
+  "installer_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.7.1-beta/Luqqzstrap_Installer.exe",
+  "changelog": "Novidades v2.7.1-beta:\n- Novo Instalador Universal com interface moderna e atalhos VBS COM robustos\n- Gerenciador de Versão do Roblox nas configurações (detecta divergências e baixa/instala versões compatíveis via CDN oficial)\n- Correção de exibição do ícone na barra de tarefas (Taskbar)\n- Correção e importação em lote ultra-rápida de presets da comunidade\n- Sincronização e injeção em memória viva otimizada"
 }
