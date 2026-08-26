@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: luqqzstrap-discord-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot_server.py
+    envVars:
+      - key: DISCORD_BOT_TOKEN
+        sync: false
+      - key: PORT
+        value: 8000
