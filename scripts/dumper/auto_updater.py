@@ -106,6 +106,20 @@ def sync_offsets():
     live_version = get_current_roblox_live_version()
     print(f"[*] Current Roblox LIVE channel build: {live_version}")
 
+    # Primary generator: Luqqzstrap Native PE Dumper
+    if live_version:
+        try:
+            try:
+                from scripts.dumper import native_dumper
+            except ImportError:
+                import native_dumper
+            print("[*] Invoking Luqqzstrap Native Dumper as primary generator...")
+            if native_dumper.run_dumper(target_version=live_version):
+                print(f"[+] Native dumper successfully generated offsets for {live_version}!")
+                return True
+        except Exception as e:
+            print(f"[!] Native dumper exception: {e}, falling back to network mirrors...")
+
     best_body: bytes | None = None
     best_source: str | None = None
     best_version: str | None = None
