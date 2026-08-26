@@ -4,16 +4,16 @@
 /*              https://github.com/Luqqzin/Luqqzstrap          
 /* -------------------------------------------------------------
 /*  Dumped With     : Luqqzstrap Native PE Dumper v1.0
-/*  Roblox Version  : version-ddf602d9cfe44005
-/*  Dumped At       : 15:54 26/08/2026 (GMT)
-/*  Total Offsets   : 14457
+/*  Roblox Version  : version-17d504d2c9544583
+/*  Dumped At       : 16:50 26/08/2026 (GMT)
+/*  Total Offsets   : 14469
 /* =============================================================
 */
 
 #include <cstdint>
 #include <string>
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-ddf602d9cfe44005";
+    inline std::string ClientVersion = "version-17d504d2c9544583";
 
     namespace FFlagList {
          inline constexpr uintptr_t Pointer = 0x8390188;
@@ -64,6 +64,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t AbdmDefaultCleanupThreshold = 0x7a983e0;
          inline constexpr uintptr_t AbdmDefaultMaxBackoffTimeMs = 0x7a98430;
          inline constexpr uintptr_t AbuseReport = 0x7acc0e0;
+         inline constexpr uintptr_t AbuseReportEnrichmentIncludePresetInfo = 0x6e16910;
          inline constexpr uintptr_t AbuseReportInExperienceStateCaptureMode = 0x816fef0;
          inline constexpr uintptr_t AbuseReportMaxChatMessages = 0x7acc0b8;
          inline constexpr uintptr_t AbuseReportMenuOpenCloseSignal = 0x6cb33c0;
@@ -1461,6 +1462,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t CafTelemetryIntegrationAppLaunchTelemetryThrottleHundredthsPercent = 0x836cec8;
          inline constexpr uintptr_t CageMeshFetchRequestFetchRetries = 0x7ab67c0;
          inline constexpr uintptr_t CakeCompatibilityWithPhysicsReceiver2 = 0x81d1558;
+         inline constexpr uintptr_t CallAdPlayerCallbackOnFailure = 0x6c6b768;
          inline constexpr uintptr_t CallAnalytics = 0x7ace940;
          inline constexpr uintptr_t CallManager = 0x7ace920;
          inline constexpr uintptr_t CallerContextMaxStackDepth = 0x7ab3008;
@@ -4004,6 +4006,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t EnableCullLogsExperiment = 0x822d008;
          inline constexpr uintptr_t EnableCurveAnimationMarkerLimit = 0x833d3f8;
          inline constexpr uintptr_t EnableDMNotificationMonitor = 0x7ee7fa8;
+         inline constexpr uintptr_t EnableDMRAnchorWithContraintsPlayback = 0x6c06b18;
          inline constexpr uintptr_t EnableDMRTelemetry2 = 0x81876c8;
          inline constexpr uintptr_t EnableDMRecorderBatchFiles = 0x8186ef8;
          inline constexpr uintptr_t EnableDMRecorderStopFile = 0x81871d8;
@@ -6463,6 +6466,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t InstanceNullEngineContextTelemetryPlaceID = 0x7eebee8;
          inline constexpr uintptr_t InstanceObjectManagerUEIntervalSeconds = 0x81c59c8;
          inline constexpr uintptr_t InstanceObjectManagerUEThrottleHP = 0x81c56f8;
+         inline constexpr uintptr_t InstancePasteHooksComponent = 0x6c24408;
          inline constexpr uintptr_t InstancePool = 0x7a41530;
          inline constexpr uintptr_t InstanceReconnectTeleportFailedThrottleHundredthPercent = 0x7a65400;
          inline constexpr uintptr_t InstanceReflectionLimitWarningLimit = 0x7a83900;
@@ -9202,6 +9206,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RbxTransportEphemeralEarlyPubKeyPlayerClientLoadingThrottleHundredthsPercent = 0x81afff8;
          inline constexpr uintptr_t RbxTransportEraseClosedChannelMaps = 0x7eed980;
          inline constexpr uintptr_t RbxTransportEvictPendingAuthConnections = 0x81ce8a8;
+         inline constexpr uintptr_t RbxTransportFailClosedCapabilityNegotiation = 0x6ccc560;
          inline constexpr uintptr_t RbxTransportFairProcessingLoop = 0x7eeda28;
          inline constexpr uintptr_t RbxTransportFallbackStudio = 0x81c3b58;
          inline constexpr uintptr_t RbxTransportFallbackStudioMessage = 0x7a8ca60;
@@ -9222,6 +9227,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RbxTransportIntegration = 0x7acef20;
          inline constexpr uintptr_t RbxTransportIoErrorToStateReasonKeepDetails = 0x7eece60;
          inline constexpr uintptr_t RbxTransportIoLibContext = 0x7a45fa8;
+         inline constexpr uintptr_t RbxTransportIpRateLimit = 0x6ccc448;
          inline constexpr uintptr_t RbxTransportKernelTimestampSamplePercent = 0x7eed0a0;
          inline constexpr uintptr_t RbxTransportLimitUnreliableChannels = 0x7eed180;
          inline constexpr uintptr_t RbxTransportListener = 0x7a43c48;
@@ -9322,6 +9328,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RbxTransportServerPort = 0x81ce7e8;
          inline constexpr uintptr_t RbxTransportSessionCrypto = 0x81c5058;
          inline constexpr uintptr_t RbxTransportShareListenerTlsContext = 0x7eed108;
+         inline constexpr uintptr_t RbxTransportSmoothBandwidthStats = 0x6e61c80;
          inline constexpr uintptr_t RbxTransportStatSampleRate = 0x7eed8a0;
          inline constexpr uintptr_t RbxTransportStunPopProbe = 0x7ad2dc8;
          inline constexpr uintptr_t RbxTransportSystemLayerFlowWindowSizeBytes = 0x7a48948;
@@ -9333,6 +9340,8 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RbxTransportTls = 0x7a46770;
          inline constexpr uintptr_t RbxTransportToRepUnexpectedEventThrottleHP = 0x7a8faa8;
          inline constexpr uintptr_t RbxTransportToRepUnexpectedEventThrottleSec = 0x7a8fb00;
+         inline constexpr uintptr_t RbxTransportTxOverflowBuffer = 0x6cccfb8;
+         inline constexpr uintptr_t RbxTransportTxOverflowTelemetryThrottle = 0x6cccf90;
          inline constexpr uintptr_t RbxTransportUnitTestIntegrationFixes = 0x7eebd58;
          inline constexpr uintptr_t RbxTransportUnreliableReassemblyBudget = 0x7eed040;
          inline constexpr uintptr_t RbxTransportUnreliableReassemblyBudgetBytes = 0x7a46490;
@@ -10158,6 +10167,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RobloxTelemetryPacketMissFrameWindowMetricsThrottleHundredthsPercent = 0x81b9078;
          inline constexpr uintptr_t RobloxTelemetryProdAdapterPointV2Prefix = 0x7ad6248;
          inline constexpr uintptr_t RobloxTelemetryProductInfoBatchingAnalyticsThrottleHundredthsPercent = 0x7a9f768;
+         inline constexpr uintptr_t RobloxTelemetryProductInfoBatchingValidationAnalyticsThrottleHundredthsPercent = 0x6c43aa0;
          inline constexpr uintptr_t RobloxTelemetryRankProductsBatchingAnalyticsThrottleHundredthsPercent = 0x7a9f8c8;
          inline constexpr uintptr_t RobloxTelemetryRccDisconnectEventsThrottleHundredthsPercent = 0x81b8a08;
          inline constexpr uintptr_t RobloxTelemetryRccDisconnectPointsThrottleHundredthsPercent = 0x81b88b8;
@@ -11514,6 +11524,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t StaleRolloutTimeSeconds = 0x81f5218;
          inline constexpr uintptr_t StandaloneDMInitPerfTelemetry = 0x815dfe8;
          inline constexpr uintptr_t StandaloneDMInitPerfTelemetryLogging = 0x815dfd0;
+         inline constexpr uintptr_t StandaloneDmLoadBuilderIcon = 0x6e367b8;
          inline constexpr uintptr_t StandalonePlaybackClientEnabled = 0x8187608;
          inline constexpr uintptr_t StandardHumanoidAssyMOIThou = 0x7a801a8;
          inline constexpr uintptr_t StandardHumanoidAssyMassThou = 0x7a80180;
@@ -13408,6 +13419,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t UserVRCameraZoomFix = 0x7a60e88;
          inline constexpr uintptr_t UserVRFollowCamera2 = 0x7a61170;
          inline constexpr uintptr_t UserVRPlayerScriptsMisc = 0x7a61238;
+         inline constexpr uintptr_t UserVRRecenterOnExternalTeleport = 0x6d89d20;
          inline constexpr uintptr_t UserVRRemoveLuaEdgeBlur = 0x815c278;
          inline constexpr uintptr_t UserVRRotationTweeks = 0x7a61198;
          inline constexpr uintptr_t UserVRRotationUpdate = 0x7a60ed8;
