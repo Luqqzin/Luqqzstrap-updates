@@ -1,9 +1,9 @@
 {
-  "version": "2.7.3-beta",
-  "tag_name": "v2.7.3-beta",
-  "release_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/tag/v2.7.3-beta",
-  "download_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.7.3-beta/Luqqzstrap_Setup.exe",
-  "zip_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.7.3-beta/Luqqzstrap-windows.zip",
+  "version": "2.7.4",
+  "tag_name": "v2.7.4",
+  "release_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/tag/v2.7.4",
+  "download_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.7.4/Luqqzstrap_Setup.exe",
+  "zip_url": "https://github.com/Luqqzin/Luqqzstrap-updates/releases/download/v2.7.4/Luqqzstrap-windows.zip",
   "mandatory": false,
-  "changelog": "Native PE FastFlag Dumper, Roblox Version Changer (v735.3 support), and UI layout fixes."
+  "changelog": "Sincronizacao em tempo real de offsets com offsets.imtheo.lol, Version Changer aperfeicoado e correcao de travamento de flags."
 }
