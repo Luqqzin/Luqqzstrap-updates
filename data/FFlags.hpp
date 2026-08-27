@@ -4,16 +4,16 @@
 /*              https://github.com/Luqqzin/Luqqzstrap          
 /* -------------------------------------------------------------
 /*  Dumped With     : Luqqzstrap Native PE Dumper v1.0
-/*  Roblox Version  : version-17d504d2c9544583
-/*  Dumped At       : 14:29 27/08/2026 (GMT)
-/*  Total Offsets   : 14469
+/*  Roblox Version  : version-f5a60436d48947d3
+/*  Dumped At       : 23:55 27/08/2026 (GMT)
+/*  Total Offsets   : 14477
 /* =============================================================
 */
 
 #include <cstdint>
 #include <string>
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-17d504d2c9544583";
+    inline std::string ClientVersion = "version-f5a60436d48947d3";
 
     namespace FFlagList {
          inline constexpr uintptr_t Pointer = 0x8390188;
@@ -483,6 +483,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t AnimatorFixMissingInitialSyncWhenStreaming = 0x833b360;
          inline constexpr uintptr_t AnimatorJointPrefetchLookahead = 0x7ab0180;
          inline constexpr uintptr_t AnimatorLodControllerDebugViewEnabled = 0x833b0a8;
+         inline constexpr uintptr_t AnimatorLodModelInstanceOwnershipFix = 0x6ccc4d0;
          inline constexpr uintptr_t AnimatorLodOptOutPhase = 0x833b090;
          inline constexpr uintptr_t AnimatorMaxOfActiveTracksRate = 0x833b590;
          inline constexpr uintptr_t AnimatorNewModelSearch5 = 0x833b000;
@@ -1092,6 +1093,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t BbrInitialPacingRttMs = 0x7a468d8;
          inline constexpr uintptr_t BbrMaxBwFilterAdvanceOnce = 0x7a468f0;
          inline constexpr uintptr_t BenchmarkCapture = 0x7aa1ba8;
+         inline constexpr uintptr_t BetterErrorMessages = 0x6cd0608;
          inline constexpr uintptr_t BgUpdateRedirectsDisable = 0x7a9a970;
          inline constexpr uintptr_t BgUpdateRedirectsHttpErrInfluxHundredthsPercentage = 0x81ff9b8;
          inline constexpr uintptr_t BgUpdateRedirectsRejectInfluxHundredthsPercentage = 0x81ff8f8;
@@ -4261,6 +4263,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t EnablePromptRobuxTransfer = 0x820c448;
          inline constexpr uintptr_t EnablePromptRobuxTransferDedicatedUpsellEvent = 0x820ca48;
          inline constexpr uintptr_t EnablePromptSignalRobloxSubscriptionPurchaseFinished3 = 0x820b1c8;
+         inline constexpr uintptr_t EnableProximityPromptIndicatorGui = 0x6dd4cc0;
          inline constexpr uintptr_t EnablePublishEventsForEditableAndWD = 0x816e250;
          inline constexpr uintptr_t EnablePurchasePayload2 = 0x82082a8;
          inline constexpr uintptr_t EnablePwrToast = 0x81e2f08;
@@ -4386,6 +4389,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t EnableTexturePreloading = 0x836a530;
          inline constexpr uintptr_t EnableThirdPartyVoiceMutingPlatformType2 = 0x816e028;
          inline constexpr uintptr_t EnableToSwitchToSettingsAppWithRouteMac = 0x8337640;
+         inline constexpr uintptr_t EnableToSwitchToSettingsAppWithRouteWin32 = 0x6e9e270;
          inline constexpr uintptr_t EnableTopicBasedRealtimeNotifications = 0x81ebbf8;
          inline constexpr uintptr_t EnableTraceRouteService3 = 0x81d9c28;
          inline constexpr uintptr_t EnableTraceRouteSessionSummaryStats = 0x81d9f28;
@@ -6438,6 +6442,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t InitializedOptions = 0x818aa28;
          inline constexpr uintptr_t InitializingTimerInterval = 0x7ace870;
          inline constexpr uintptr_t InlineHashStates = 0x7a9c828;
+         inline constexpr uintptr_t InlineNetAssetsForReplicatedFirst = 0x6ece948;
          inline constexpr uintptr_t InlinePropertyChangeItems = 0x7a91a20;
          inline constexpr uintptr_t InnerBoxUseContext = 0x833c258;
          inline constexpr uintptr_t Input = 0x7aa8070;
@@ -11754,6 +11759,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t StudioMeshStreamingExtendedLod = 0x8162ba0;
          inline constexpr uintptr_t StudioMeshStreamingGreyOutRenderFidelity = 0x8198618;
          inline constexpr uintptr_t StudioObjectExportPassHiToGenerator = 0x8162cf8;
+         inline constexpr uintptr_t StudioObjectExportTelemetry = 0x6e2d170;
          inline constexpr uintptr_t StudioOnlyHideVulkanFromSettingsDropdown = 0x83702e8;
          inline constexpr uintptr_t StudioOpenWithStreaming = 0x7ead1c3;
          inline constexpr uintptr_t StudioOpenWithStreamingForceIrad = 0x81c9808;
@@ -12467,6 +12473,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t TextureTranscodeLocalizationEnableHundredthPercent = 0x81f0468;
          inline constexpr uintptr_t TextureTranscodeNewFidelityETC = 0x7a96f50;
          inline constexpr uintptr_t TextureTranscodeNewFidelityEncodingETC = 0x7a96f80;
+         inline constexpr uintptr_t TextureTranscodeRollout = 0x6edf620;
          inline constexpr uintptr_t TextureTranscodeVersion = 0x7a96e00;
          inline constexpr uintptr_t TextureTranscoderReservedThreads = 0x7a96d60;
          inline constexpr uintptr_t TextureTranscoderResizeOpt3 = 0x8356ec8;
@@ -13867,6 +13874,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t VisualEngineInit = 0x7a747d8;
          inline constexpr uintptr_t VisualizeLevitationForces = 0x8182608;
          inline constexpr uintptr_t VisualizeSkinningTransfer = 0x833dbd0;
+         inline constexpr uintptr_t VisuallyMovingSleepOnRemove = 0x6c5b1c8;
          inline constexpr uintptr_t VisuallyMovingWakeOnAdd = 0x8196b18;
          inline constexpr uintptr_t VkErrorEventsExclueByCall = 0x7ac08a0;
          inline constexpr uintptr_t VkErrorEventsExclueByError = 0x7ac08d0;
