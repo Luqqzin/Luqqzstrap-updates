@@ -4,8 +4,8 @@
 /*              https://github.com/Luqqzin/Luqqzstrap          
 /* -------------------------------------------------------------
 /*  Dumped With     : Luqqzstrap Native PE Dumper v1.0
-/*  Roblox Version  : version-c5aecda2245e4fae
-/*  Dumped At       : 15:11 15/09/2026 (GMT)
+/*  Roblox Version  : version-4310300497aa4917
+/*  Dumped At       : 19:01 15/09/2026 (GMT)
 /*  Total Offsets   : 14477
 /* =============================================================
 */
@@ -13,7 +13,7 @@
 #include <cstdint>
 #include <string>
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-c5aecda2245e4fae";
+    inline std::string ClientVersion = "version-4310300497aa4917";
 
     namespace FFlagList {
          inline constexpr uintptr_t Pointer = 0x8390188;
