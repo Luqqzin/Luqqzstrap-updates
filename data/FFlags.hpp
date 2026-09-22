@@ -4,16 +4,16 @@
 /*              https://github.com/Luqqzin/Luqqzstrap          
 /* -------------------------------------------------------------
 /*  Dumped With     : Luqqzstrap Native PE Dumper v1.0
-/*  Roblox Version  : version-4310300497aa4917
-/*  Dumped At       : 11:58 22/09/2026 (GMT)
-/*  Total Offsets   : 14477
+/*  Roblox Version  : version-2366ba214ec740ca
+/*  Dumped At       : 16:48 22/09/2026 (GMT)
+/*  Total Offsets   : 14484
 /* =============================================================
 */
 
 #include <cstdint>
 #include <string>
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-4310300497aa4917";
+    inline std::string ClientVersion = "version-2366ba214ec740ca";
 
     namespace FFlagList {
          inline constexpr uintptr_t Pointer = 0x8390188;
@@ -252,6 +252,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t AllowFtsVendorPinning = 0x8159d70;
          inline constexpr uintptr_t AllowHingedToAnchoredLocalSimulation = 0x8179268;
          inline constexpr uintptr_t AllowInsertFreeAssets = 0x815cd10;
+         inline constexpr uintptr_t AllowMaxPlayersZero = 0x7086748;
          inline constexpr uintptr_t AllowMeshPartContentSerialization = 0x81fb4c8;
          inline constexpr uintptr_t AllowObjectInFilterNew = 0x81ea898;
          inline constexpr uintptr_t AllowPurchasesOutsideExperience = 0x6d3d620;
@@ -3865,6 +3866,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t EmitFSSizeTelemetry = 0x8194e28;
          inline constexpr uintptr_t EmitFSUploadTelemetry = 0x8194cd8;
          inline constexpr uintptr_t EmitFinishInitLuaMilestonesUnconditionally = 0x82329d8;
+         inline constexpr uintptr_t EmitOpTypeInRCCTelemetry = 0x7086858;
          inline constexpr uintptr_t EmitSSSnapSizeTelemetry = 0x8194ed8;
          inline constexpr uintptr_t EmitterBoundingBoxBasedDistanceKey = 0x8165428;
          inline constexpr uintptr_t EmitterDistanceBucketCount = 0x7a6f6c8;
@@ -8904,6 +8906,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RCC28699 = 0x816ff20;
          inline constexpr uintptr_t RCCChannelName = 0x7a56fc0;
          inline constexpr uintptr_t RCCDMChangeTrackingEnablePlaceFileElide = 0x8183e38;
+         inline constexpr uintptr_t RCCForcedScreenshotRequestsSentThrottleHundredthsPercent = 0x7086878;
          inline constexpr uintptr_t RCCJoinTransmissionStatsHundredthsPercentage = 0x81b18f8;
          inline constexpr uintptr_t RCCLoadInternalModuleInfo = 0x7a83480;
          inline constexpr uintptr_t RCCMicroprofilingRomarkMode = 0x8158f70;
@@ -8915,6 +8918,8 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RCCReceiveEventStringDataReportingBytes = 0x81d82d8;
          inline constexpr uintptr_t RCCReceiveEventVariantCountLimit = 0x81d7fb8;
          inline constexpr uintptr_t RCCReceiveEventVariantReportingCount = 0x81d8398;
+         inline constexpr uintptr_t RCCRecordPlaceRuntimeRequestsBadThrottleHundredthsPercent = 0x70869b0;
+         inline constexpr uintptr_t RCCRecordPlaceRuntimeRequestsReceivedThrottleHundredthsPercent = 0x70868e0;
          inline constexpr uintptr_t RCCShouldUseObfuscatedByteCodeInTeamTestSignal2 = 0x81cc5e8;
          inline constexpr uintptr_t RCCSimulatingInterpolationCorrectionDistanceReportingThresholdPercentHundredths = 0x7a8f908;
          inline constexpr uintptr_t RCCThumbnailReportHundredthsPercent = 0x816c370;
@@ -8936,8 +8941,10 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RM3ScreenshotEncoding = 0x8194658;
          inline constexpr uintptr_t RM3ScreenshotGPUResize = 0x81945a8;
          inline constexpr uintptr_t RM3ScreenshotResizeTelemetryPercent = 0x8195788;
+         inline constexpr uintptr_t RM3T0VFUseGlobalConfig = 0x7086648;
          inline constexpr uintptr_t RM3Tier0ConfigRefreshEnabled = 0x81934a8;
          inline constexpr uintptr_t RM3Tier0ConfigRefreshHundredthsPercent = 0x8193568;
+         inline constexpr uintptr_t RM3Tier0ConfigServiceApiEndpoint = 0x7086590;
          inline constexpr uintptr_t RM3Tier0MonitoringClientDisabledHundredthsPercent = 0x8193628;
          inline constexpr uintptr_t RM3Tier0VisualFilterMonitoringEnabled = 0x8193328;
          inline constexpr uintptr_t RM3Tier0VisualFilterMonitoringEnabledHundredsPercent = 0x81933e8;
