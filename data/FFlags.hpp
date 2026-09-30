@@ -4,16 +4,16 @@
 /*              https://github.com/Luqqzin/Luqqzstrap          
 /* -------------------------------------------------------------
 /*  Dumped With     : Luqqzstrap Native PE Dumper v1.0
-/*  Roblox Version  : version-2366ba214ec740ca
-/*  Dumped At       : 11:18 30/09/2026 (GMT)
-/*  Total Offsets   : 14484
+/*  Roblox Version  : version-02c37bc51a384b8f
+/*  Dumped At       : 16:55 30/09/2026 (GMT)
+/*  Total Offsets   : 14486
 /* =============================================================
 */
 
 #include <cstdint>
 #include <string>
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-2366ba214ec740ca";
+    inline std::string ClientVersion = "version-02c37bc51a384b8f";
 
     namespace FFlagList {
          inline constexpr uintptr_t Pointer = 0x8390188;
@@ -1032,6 +1032,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t BandwithHealthPeriodMs = 0x7a8ed18;
          inline constexpr uintptr_t BandwithHealthyTargetPct = 0x7a8ecc8;
          inline constexpr uintptr_t BandwithUnhealthyTargetPct = 0x7a8ecf0;
+         inline constexpr uintptr_t BankGuard = 0x71267e8;
          inline constexpr uintptr_t BaseExperienceController = 0x7aa7dd8;
          inline constexpr uintptr_t BaseGenerationJobEnableOptionsInput = 0x8210078;
          inline constexpr uintptr_t BasePartCollisionGroupRecordable = 0x835a7d8;
@@ -9511,6 +9512,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t RemoteAnimationSmoothingStrategy = 0x7ab3e80;
          inline constexpr uintptr_t RemoteAnimationStreamSourceTrace = 0x7ab3e60;
          inline constexpr uintptr_t RemoteDebuggerServer = 0x7a84050;
+         inline constexpr uintptr_t RemoteDebuggingImprovedLogging = 0x7216780;
          inline constexpr uintptr_t RemoteDelayedQueueLimit = 0x7a65468;
          inline constexpr uintptr_t RemoteEventAbuseReportRateLimitMax = 0x7a8b150;
          inline constexpr uintptr_t RemoteEventAbuseReportRateLimitMilliseconds = 0x7a8b240;
