@@ -4,16 +4,16 @@
 /*              https://github.com/Luqqzin/Luqqzstrap          
 /* -------------------------------------------------------------
 /*  Dumped With     : Luqqzstrap Native PE Dumper v1.0
-/*  Roblox Version  : version-02c37bc51a384b8f
-/*  Dumped At       : 14:40 07/10/2026 (GMT)
-/*  Total Offsets   : 14486
+/*  Roblox Version  : version-cec3ad5889b447cf
+/*  Dumped At       : 20:10 07/10/2026 (GMT)
+/*  Total Offsets   : 14487
 /* =============================================================
 */
 
 #include <cstdint>
 #include <string>
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-02c37bc51a384b8f";
+    inline std::string ClientVersion = "version-cec3ad5889b447cf";
 
     namespace FFlagList {
          inline constexpr uintptr_t Pointer = 0x8390188;
@@ -11498,6 +11498,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t SoundServiceCacheCleanupMaxAgeDays = 0x7a87318;
          inline constexpr uintptr_t SoundServiceFeatureTelemetryThrottle = 0x81a6ed8;
          inline constexpr uintptr_t SoundServiceMockInputDevices = 0x81a3e68;
+         inline constexpr uintptr_t SoundServiceMockOutputDevices = 0x705455f;
          inline constexpr uintptr_t SoundServiceStepUsesSlotMap = 0x81a1918;
          inline constexpr uintptr_t SoundSessionPlaybackCppThrottle = 0x81a8bc8;
          inline constexpr uintptr_t SoundShimAmbientReverb = 0x81a73e8;
