@@ -4,16 +4,16 @@
 /*              https://github.com/Luqqzin/Luqqzstrap          
 /* -------------------------------------------------------------
 /*  Dumped With     : Luqqzstrap Native PE Dumper v1.0
-/*  Roblox Version  : version-11f155f3450f4c8e
-/*  Dumped At       : 18:39 20/10/2026 (GMT)
-/*  Total Offsets   : 14487
+/*  Roblox Version  : version-9ac8595712b447a7
+/*  Dumped At       : 21:54 20/10/2026 (GMT)
+/*  Total Offsets   : 14488
 /* =============================================================
 */
 
 #include <cstdint>
 #include <string>
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-11f155f3450f4c8e";
+    inline std::string ClientVersion = "version-9ac8595712b447a7";
 
     namespace FFlagList {
          inline constexpr uintptr_t Pointer = 0x8390188;
@@ -13595,6 +13595,7 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t VideoCaptureSelfTestResultTTLSec = 0x7a76180;
          inline constexpr uintptr_t VideoCaptureServiceFixRespawn = 0x8170a50;
          inline constexpr uintptr_t VideoCaptureServiceHeartBeatFlushIntervalMilliseconds = 0x7a7b6a8;
+         inline constexpr uintptr_t VideoCaptureServiceMockInput = 0x73ca3f3;
          inline constexpr uintptr_t VideoCaptureSettingsTTLSec = 0x7a761a8;
          inline constexpr uintptr_t VideoCaptureSnapshotClampToVideoResolution = 0x815ed30;
          inline constexpr uintptr_t VideoCaptureSnapshotMaxFrameTimeSecond = 0x7a76ae0;
