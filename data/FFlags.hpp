@@ -4,16 +4,16 @@
 /*              https://github.com/Luqqzin/Luqqzstrap          
 /* -------------------------------------------------------------
 /*  Dumped With     : Luqqzstrap Native PE Dumper v1.0
-/*  Roblox Version  : version-9ac8595712b447a7
-/*  Dumped At       : 12:15 27/10/2026 (GMT)
-/*  Total Offsets   : 14488
+/*  Roblox Version  : version-5a21b87bbc2641cf
+/*  Dumped At       : 18:05 27/10/2026 (GMT)
+/*  Total Offsets   : 14490
 /* =============================================================
 */
 
 #include <cstdint>
 #include <string>
 namespace FFlagOffsets {
-    inline std::string ClientVersion = "version-9ac8595712b447a7";
+    inline std::string ClientVersion = "version-5a21b87bbc2641cf";
 
     namespace FFlagList {
          inline constexpr uintptr_t Pointer = 0x8390188;
@@ -4784,6 +4784,8 @@ namespace FFlagOffsets {
          inline constexpr uintptr_t FasterMrdDisconnect2 = 0x81d06e8;
          inline constexpr uintptr_t FasterPannerVolumeSetters = 0x81ab1a8;
          inline constexpr uintptr_t FasterPreciseTime6 = 0x8203688;
+         inline constexpr uintptr_t FeatureMatchingEnabled = 0x7150a28;
+         inline constexpr uintptr_t FeatureMatchingSearchEnabled = 0x71509a8;
          inline constexpr uintptr_t FeatureRestrictionManager = 0x7acc518;
          inline constexpr uintptr_t FeatureRestrictionManagerAmpLimitCapacity = 0x7a792b8;
          inline constexpr uintptr_t FeatureRestrictionManagerAmpLimitDuration = 0x7a792e0;
